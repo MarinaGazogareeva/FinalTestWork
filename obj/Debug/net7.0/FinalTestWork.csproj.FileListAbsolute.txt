@@ -1,0 +1,15 @@
+C:\Geekbrains\FTW\FinalTestWork\bin\Debug\net7.0\FinalTestWork.exe
+C:\Geekbrains\FTW\FinalTestWork\bin\Debug\net7.0\FinalTestWork.deps.json
+C:\Geekbrains\FTW\FinalTestWork\bin\Debug\net7.0\FinalTestWork.runtimeconfig.json
+C:\Geekbrains\FTW\FinalTestWork\bin\Debug\net7.0\FinalTestWork.dll
+C:\Geekbrains\FTW\FinalTestWork\bin\Debug\net7.0\FinalTestWork.pdb
+C:\Geekbrains\FTW\FinalTestWork\obj\Debug\net7.0\FinalTestWork.csproj.AssemblyReference.cache
+C:\Geekbrains\FTW\FinalTestWork\obj\Debug\net7.0\FinalTestWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\FTW\FinalTestWork\obj\Debug\net7.0\FinalTestWork.AssemblyInfoInputs.cache
+C:\Geekbrains\FTW\FinalTestWork\obj\Debug\net7.0\FinalTestWork.AssemblyInfo.cs
+C:\Geekbrains\FTW\FinalTestWork\obj\Debug\net7.0\FinalTestWork.csproj.CoreCompileInputs.cache
+C:\Geekbrains\FTW\FinalTestWork\obj\Debug\net7.0\FinalTestWork.dll
+C:\Geekbrains\FTW\FinalTestWork\obj\Debug\net7.0\refint\FinalTestWork.dll
+C:\Geekbrains\FTW\FinalTestWork\obj\Debug\net7.0\FinalTestWork.pdb
+C:\Geekbrains\FTW\FinalTestWork\obj\Debug\net7.0\FinalTestWork.genruntimeconfig.cache
+C:\Geekbrains\FTW\FinalTestWork\obj\Debug\net7.0\ref\FinalTestWork.dll
